@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/abed/.platformio/penv/bin:/home/abed/.platformio/penv:/home/abed/bin:/home/abed/.local/bin:/opt/ros/kinetic/bin:/home/abed/bin:/home/abed/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
